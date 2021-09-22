@@ -1,4 +1,4 @@
-package assignments._2.FirstJava;
+package assignments._02_FirstJava;
 
 import java.util.Scanner;
 
