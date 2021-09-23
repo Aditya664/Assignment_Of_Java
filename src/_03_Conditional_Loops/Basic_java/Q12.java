@@ -11,5 +11,4 @@ public class Q12 {
         double perimeter = 4*side;
         System.out.println("Perimeter of the square is: "+perimeter);
     }
-
 }
