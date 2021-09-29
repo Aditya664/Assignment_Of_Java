@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Q23 {
     public static void main(String[] args) {
+        //Input a number and print all the factors of that number (use loops).
         Scanner in = new Scanner(System.in);
         //Input number from user
         System.out.println("Please enter number:");
