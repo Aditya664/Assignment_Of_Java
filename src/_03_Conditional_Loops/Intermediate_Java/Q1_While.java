@@ -1,4 +1,4 @@
-package _03_Conditional_Loops.Intermediate_Java.Q1;
+package _03_Conditional_Loops.Intermediate_Java;
 
 import java.util.Scanner;
 
