@@ -2,7 +2,7 @@ package _03_Conditional_Loops.Intermediate_Java;
 
 import java.util.Scanner;
 
-public class Q2 {
+public class Q3 {
     public static void main(String[] args) {
 //        Calculate Average Of N Numbers
         int n,num,sum=0, i;
