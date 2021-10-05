@@ -7,7 +7,7 @@ public class VoteEligibility {
         Scanner in = new Scanner(System.in);
         System.out.println("Please enter your age to check eligibility for voting:");
         int age = in.nextInt();
-        ChceckAge(age);
+
 
 
     }
