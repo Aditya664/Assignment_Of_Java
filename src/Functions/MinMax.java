@@ -1,4 +1,4 @@
-package _03_Conditional_Loops.Functions;
+package Functions;
 
 import java.util.Scanner;
 
